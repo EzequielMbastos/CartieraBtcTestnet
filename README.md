@@ -13,14 +13,10 @@ bip39
 Como Usar
 Clone o repositório:
 
-bash
-Copiar código
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 Instale as dependências:
 
-bash
-Copiar código
 npm install
 Execute o script:
 
